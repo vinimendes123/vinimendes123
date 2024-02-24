@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  ![Snake animation](https://github.com/DevBatista1/DevBatista1/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/vinimendes123/vinimendes123/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
