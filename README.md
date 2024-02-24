@@ -17,6 +17,8 @@
   <a href="https://www.linkedin.com/in/viniciusmarcal123/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <img src="https://github.com/vinimendes123/vinimendes123/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+
+  ![Snake animation](https://github.com/DevBatista1/DevBatista1/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
