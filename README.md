@@ -4,7 +4,7 @@
 
 - 🔭 Trabalhando como Técnico em Implantação de Sistemas.
 - 🌱 Estudando Engenharia de Software.
-- 💻 Aprendendo Java e Html.
+- 💻 Aprendendo Java, JavaScript, HTML e CSS.
   
 
 <div>
